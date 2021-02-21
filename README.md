@@ -1,7 +1,7 @@
 # IOT-CA2
 IOT CA2 Repo for Poh Chuan and Zhao Bin, Team: The New Meta
 ## System hardware
-![Final Hardware Setup](./ReadMeImages/"Final setup.png")
+![Final Hardware Setup](./Finalsetup.png)
 
 
 ## Quick Start Guide
